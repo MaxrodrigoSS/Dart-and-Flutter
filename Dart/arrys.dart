@@ -24,6 +24,6 @@ var nomes = ["Clara" , "Justin"];
 nomes.add("Fernando");  
 nomes.add("Lucas");
 print(nomes.length);
-nomes.remove("Clara")
+nomes.remove("Clara");
  
 }
